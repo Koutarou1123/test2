@@ -1,5 +1,6 @@
 #!/bin/bash
 
-echo hoge
-echo hoge
-echo hoge
+echo 20C1116
+echo Murabayashi
+echo Koutarou
+echo kadai taihen
